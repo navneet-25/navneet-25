@@ -1,7 +1,7 @@
 # Hi, I’m Navneet Pal 👋
 
 I’m a **Full-Stack Software Engineer** based in India.  
-I build practical, scalable web and mobile applications — from idea to production.
+I build practical, scalable web and mobile applications from idea to production.
 
 ---
 
@@ -26,10 +26,10 @@ I build practical, scalable web and mobile applications — from idea to product
 **Backend**
 - Node.js
 - Express.js
-- Python
 - FastRTC
 - Django
-- PHP (CodeIgniter)
+- PHP
+- CodeIgniter
 - Supabase
 - PostgreSQL
 - REST APIs
@@ -52,7 +52,7 @@ I build practical, scalable web and mobile applications — from idea to product
 
 ## 📬 Reach Me
 
-- GitHub: https://github.com/yourusername  
+- GitHub: https://github.com/navneet-25  
 - Portfolio: Coming soon  
 
 ---
