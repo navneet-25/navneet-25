@@ -8,17 +8,45 @@ I build practical, scalable web and mobile applications — from idea to product
 ## 🚧 Currently Working On
 
 - Full-stack SaaS products  
-- Backend systems & API performance optimization  
-- AI-powered tools and automation workflows  
+- High-performance backend systems & APIs  
+- AI-powered tools and real-time automation  
 
 ---
 
 ## 🛠️ Tools & Tech
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Node.js, PHP (CodeIgniter), Supabase  
-**Mobile / No-Code:** FlutterFlow  
-**Other:** Git, GitHub, CI/CD, REST APIs
+**Frontend**
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Vite
+
+**Backend**
+- Node.js
+- Express.js
+- Python
+- FastRTC
+- Django
+- PHP (CodeIgniter)
+- Supabase
+- PostgreSQL
+- REST APIs
+- Background jobs & async processing
+
+**Mobile**
+- React Native
+- Expo
+- Android Studio
+- FlutterFlow
+
+**DevOps / Other**
+- Git & GitHub
+- Docker
+- CI/CD pipelines
+- Linux
+- API testing & performance optimization
 
 ---
 
@@ -29,7 +57,7 @@ I build practical, scalable web and mobile applications — from idea to product
 
 ---
 
-⭐ *I enjoy building clean systems that actually work.*
+⭐ *I enjoy building clean systems that scale and actually work.*
 
 ---
 
