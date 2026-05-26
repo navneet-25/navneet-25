@@ -1,75 +1,74 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=220&section=header&text=Navneet%20Pal&fontSize=65&animation=fadeIn&theme=radical&fontColor=ffffff" alt="Navneet Pal Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Navneet%20Pal&fontSize=50&theme=dark&fontColor=58a6ff" alt="Navneet Pal" />
 </p>
 
 <p align="center">
   <a href="https://github.com/navneet-25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+AI+Systems+Builder;Tauri+%26+Rust+Desktop+Developer;Mobile+%26+Hybrid+App+Engineer;Technical+Lead+%26+Product+Owner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Systems+Builder;Tauri+%26+Rust+Desktop+Developer;Technical+Lead+%26+Full+Stack+Engineer;Production-Grade+AI+Product+Builder" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/navneetpal25">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:navneetpal718@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/navneetpal25">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globus&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=globus&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 Executive Summary
 
-I am a **Technical Lead & Full Stack Engineer** with **3+ years of production experience** architecting high-performance AI-integrated platforms, cross-platform apps, and enterprise-grade microservice backends. I specialize in owning the full Software Development Life Cycle (SDLC), driving engineering velocity, and leading high-performing developer teams.
+As a **Technical Lead & Full Stack Engineer** with **3+ years of production experience**, I architect high-performance, secure, and scalable systems. My expertise spans AI systems integration, cross-platform client development (Desktop/Mobile), and multi-tenant cloud microservices. I own the full Software Development Life Cycle (SDLC), lead agile teams, and translate complex technical requirements into high-velocity production products.
 
-* 🚀 **Shipped 8+ commercial-grade production applications** across fintech, e-commerce, and AI SaaS verticals.
-* 🦀 Passionate about systems-level integrations utilizing **Tauri 2.0 & Rust** for native desktop software.
-* 🤖 Deep expertise in productionizing AI recommendations using **Vertex AI, Cohere, OpenAI, and Qdrant Vector DBs**.
-* 🛡️ Strong advocate for secure multitenancy via advanced **PostgreSQL Row Level Security (RLS)**.
-
----
-
-### 🛠️ My Tech Arsenal
-
-<p align="center">
-  <a href="https://github.com/navneet-25">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,php,react,nextjs,redux,tailwind,nodejs,django,supabase,firebase,postgres,mongodb,mysql,aws,gcp,docker,githubactions,html,css" alt="My Tech Skills" />
-  </a>
-</p>
-
-#### ⚡ Specialized Capabilities
-* **AI & ML Engine:** Vertex AI, Cohere Embeddings, OpenAI, Groq LPU (Whisper API), Qdrant Vector DB, Semantic Search, RAG Pipelines, Prompt Engineering.
-* **Backend & Security:** Node.js, Django, Supabase Edge Functions, Firebase Cloud Functions, Twilio Routing, Webhooks, PostgreSQL RLS (Row Level Security).
-* **Desktop & Mobile:** Tauri 2.0 (Rust Desktop Apps), Android Studio (Native Java), React Native, Chrome Manifest V3 Extensions.
-* **DevOps & Platforms:** AWS, GCP, Vercel, Docker Containers, CI/CD Workflows, n8n Workflow Automation.
+* 🚀 **Production-Grade Delivery:** Shipped **8+ commercial applications** across fintech, e-commerce, and AI SaaS verticals.
+* 🦀 **Systems & Desktop Competency:** Native, high-performance cross-platform software engineering using **Tauri 2.0 & Rust**.
+* 🤖 **AI Integration & Latency Tuning:** Designing production RAG pipelines, custom semantic search recommendations with **Vertex AI, Cohere, and Qdrant** at **sub-250ms latencies**.
+* 🛡️ **Secure Multitenancy:** Expert in isolating tenant workloads using advanced **PostgreSQL Row Level Security (RLS)**.
 
 ---
 
-### 🏆 Powerhouse Projects
+### 🛠️ Domain Expertise & Technical Arsenal
+
+Instead of a scattered list of tools, my skill matrix is structured by engineering domains, reflecting a holistic architectural capability:
+
+| Engineering Domain | Primary Tech Stack | Architectural & Core Competencies |
+| :--- | :--- | :--- |
+| **Artificial Intelligence** | Vertex AI, Cohere Embeddings, OpenAI, Groq, Qdrant | RAG Pipelines, Vector Search Optimization, Semantic Indexing, Prompt Engineering |
+| **Backend & Microservices** | Node.js, Django, Supabase Edge, Firebase Functions | Secure Multitenancy, PostgreSQL RLS, Webhooks, Twilio Routing, Event-Driven Architectures |
+| **Client Engineering** | Tauri 2.0 (Rust), Android Studio (Java), React Native, React/Next.js | Desktop OS Integrations, Global Hotkeys, Native Mobile Performance, manifest V3 Extensions |
+| **Cloud, Devops & Scaling** | AWS, GCP, Vercel, Docker, GitHub Actions, n8n | CI/CD Pipelines, Multi-Environment Deployments, Task Automations, Performance Caching |
+
+---
+
+### 🏆 Architectural System Showcase
+
+Below are the key commercial-grade products I have architected and deployed to production:
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 Blackwell SaaS</h4>
-      <p><em>Enterprise Multi-Tenant SMS Platform</em></p>
+      <p><em>Enterprise Multi-Tenant Messaging Architecture</em></p>
       <ul>
-        <li>Built with <strong>TypeScript, Supabase Edge, PostgreSQL RLS, Twilio, Webhooks</strong>.</li>
-        <li>Enforced complete data isolation across 5+ partner organizations using advanced <strong>Postgres RLS</strong>.</li>
-        <li>Deployed 20+ Supabase Edge functions for real-time lead and webhook workflows.</li>
+        <li><strong>Tech Stack:</strong> TypeScript, Supabase Edge, PostgreSQL RLS, Twilio, Webhooks.</li>
+        <li><strong>Impact:</strong> Enforced strict tenant data isolation across 5+ partner enterprises using advanced <strong>PostgreSQL RLS</strong>, handling sensitive messaging routing securely.</li>
+        <li><strong>Architecture:</strong> Orchestrated 20+ serverless edge functions for lead capture, contract signing, and dynamic webhooks.</li>
       </ul>
       <p><a href="https://partner.blackwellharbor.com/"><strong>🔗 partner.blackwellharbor.com</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>👗 Pocket Wardrobe</h4>
-      <p><em>AI Recommendations Wardrobe Engine</em></p>
+      <p><em>Production AI Recommendation & Search Engine</em></p>
       <ul>
-        <li>Built with <strong>Python, Firebase Cloud Functions, Vertex AI, Cohere, Qdrant</strong>.</li>
-        <li>Integrated AI vector embeddings for semantic recommendations with &lt;250ms search latency.</li>
-        <li>Created real-time background removal pipeline for clothing images utilizing Sharp.</li>
+        <li><strong>Tech Stack:</strong> Python, Firebase Functions, Vertex AI, Cohere, Qdrant (Vector DB).</li>
+        <li><strong>Impact:</strong> Engineered an AI recommendation pipeline executing vector similarity searches at <strong>sub-250ms latency</strong>.</li>
+        <li><strong>Architecture:</strong> Built an asynchronous image processing pipeline utilizing Sharp for real-time background removal and asset generation.</li>
       </ul>
       <p><a href="https://www.pocket-wardrobe.com"><strong>🔗 pocket-wardrobe.com</strong></a></p>
     </td>
@@ -77,21 +76,21 @@ I am a **Technical Lead & Full Stack Engineer** with **3+ years of production ex
   <tr>
     <td width="50%" valign="top">
       <h4>🦀 TalkCopyPaste</h4>
-      <p><em>Cross-Platform Tauri & Rust Desktop Dictation App</em></p>
+      <p><em>High-Performance Tauri & Rust Desktop Dictation App</em></p>
       <ul>
-        <li>Built with <strong>Tauri 2.0, Rust, React, Groq Whisper API</strong>.</li>
-        <li>Implemented OS-level global hotkey listeners, native system tray, and auto-updater.</li>
-        <li>Secure storage using system keychain integrations and global audio capturing.</li>
+        <li><strong>Tech Stack:</strong> Tauri 2.0, Rust, React, Groq Whisper LPU API.</li>
+        <li><strong>Impact:</strong> Shipped native cross-platform software with deep system integrations including global audio capture and global hotkeys.</li>
+        <li><strong>Architecture:</strong> Secure storage utilizing <strong>OS Keychain</strong>, background service workers in Rust, and a robust auto-updater pipeline.</li>
       </ul>
       <p><a href="https://www.talkcopypaste.com/"><strong>🔗 talkcopypaste.com</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>🛒 SuperG Mobile & Web</h4>
-      <p><em>Hyperlocal E-Commerce Platform</em></p>
+      <p><em>Hyperlocal Delivery & E-Commerce Infrastructure</em></p>
       <ul>
-        <li>Built with <strong>Android Studio (Java), Next.js, Redux, Google Maps, Firebase</strong>.</li>
-        <li>Real-time geolocation routing and product catalog caching.</li>
-        <li>Native mobile app combined with high-performance web dashboard.</li>
+        <li><strong>Tech Stack:</strong> Android Studio (Java), Next.js, Redux Toolkit, React Query, Firebase.</li>
+        <li><strong>Impact:</strong> Deployed a high-scale hyperlocal marketplace incorporating real-time delivery radius routing and geographic fencing.</li>
+        <li><strong>Architecture:</strong> Scaled state synchronization between native mobile clients and a high-performance web dashboard.</li>
       </ul>
       <p><a href="https://www.superg.in/"><strong>🔗 superg.in</strong></a></p>
     </td>
@@ -100,7 +99,16 @@ I am a **Technical Lead & Full Stack Engineer** with **3+ years of production ex
 
 ---
 
-### 📊 GitHub Analytics
+### 🛡️ Engineering Philosophy
+
+* **Performance & Latency First:** Every millisecond matters. From optimizing serverless cold starts to tailoring vector indices, I design with latency budgets in mind.
+* **Security by Design:** Security isn't an afterthought. I enforce strict isolation, multi-tenant boundaries (like Postgres RLS), and secure storage (Keychain APIs) out of the box.
+* **Team Growth & Leadership:** I foster a culture of engineering excellence by mentoring junior developers, driving high code quality via uniform code guidelines, and setting robust CI/CD parameters.
+* **Agile Product Ownership:** Having worked extensively with startup founders, I focus on delivering maximum business value through modular architecture and rapid, reliable iterations.
+
+---
+
+### 📊 GitHub Metrics & Activity
 
 <p align="center">
   <a href="https://github.com/navneet-25">
@@ -123,7 +131,7 @@ I am a **Technical Lead & Full Stack Engineer** with **3+ years of production ex
 
 ---
 
-### 🎮 Contribution Snake
+### 🎮 Contribution Grid Game
 
 <p align="center">
   <picture>
@@ -136,5 +144,5 @@ I am a **Technical Lead & Full Stack Engineer** with **3+ years of production ex
 ---
 
 <p align="center">
-  <strong>🔥 Let's build something extraordinary together! Feel free to reach out for integrations or collaborations.</strong>
+  <strong>💼 Open to Technical Leadership roles, Senior Developer partnerships, and AI/Rust integrations. Let's connect!</strong>
 </p>
