@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/navneetpal25">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-navneetpal25-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:navneetpal718@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-navneetpal718@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/navneetpal25">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=globus&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/navneet-25">
+    <img src="https://img.shields.io/badge/GitHub-navneet--25-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
