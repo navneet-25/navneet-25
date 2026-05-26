@@ -131,14 +131,12 @@ Below are the key commercial-grade products I have architected and deployed to p
 
 ---
 
-### 🎮 Contribution Grid Game
+### 📈 Coding Velocity & Activity Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navneet-25/navneet-25/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navneet-25/navneet-25/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/navneet-25/navneet-25/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://github.com/navneet-25">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneet-25&theme=react-dark&bg_color=0d1117&hide_border=true" width="98%" alt="GitHub Activity Graph" />
+  </a>
 </p>
 
 ---
