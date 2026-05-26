@@ -104,10 +104,15 @@ I am a **Technical Lead & Full Stack Engineer** with **3+ years of production ex
 
 <p align="center">
   <a href="https://github.com/navneet-25">
-    <img src="https://github-readme-stats.vercel.app/api?username=navneet-25&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" width="48%" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navneet-25&theme=radical" width="98%" alt="GitHub Profile Details" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/navneet-25">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navneet-25&theme=radical" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/navneet-25">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet-25&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" width="48%" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navneet-25&theme=radical" width="48%" alt="Top Languages" />
   </a>
 </p>
 <p align="center">
