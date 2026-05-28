@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/navneetpal25">
-    <img src="https://img.shields.io/badge/LinkedIn-navneetpal25-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/navneet0925">
+    <img src="https://img.shields.io/badge/LinkedIn-navneet0925-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:navneetpal718@gmail.com">
     <img src="https://img.shields.io/badge/Email-navneetpal718@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
