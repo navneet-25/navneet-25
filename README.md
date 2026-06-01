@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/navneet-25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Systems+Builder;Tauri+%26+Rust+Desktop+Developer;Technical+Lead+%26+Full+Stack+Engineer;Production-Grade+AI+Product+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Systems+Builder;Tauri+%26+Rust+Desktop+Developer;AI+%26+Web3+Systems+Architect;Technical+Lead+%26+Full+Stack+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,11 +24,12 @@
 
 ### 🧠 Executive Summary
 
-As a **Technical Lead & Full Stack Engineer** with **3+ years of production experience**, I architect high-performance, secure, and scalable systems. My expertise spans AI systems integration, cross-platform client development (Desktop/Mobile), and multi-tenant cloud microservices. I own the full Software Development Life Cycle (SDLC), lead agile teams, and translate complex technical requirements into high-velocity production products.
+As a **Technical Lead & Full Stack Engineer** with **3+ years of production experience**, I architect high-performance, secure, and scalable systems. My expertise spans AI systems integration, Web3 & Decentralized platforms, cross-platform client development (Desktop/Mobile), and multi-tenant cloud microservices. I own the full Software Development Life Cycle (SDLC), lead agile teams, and translate complex technical requirements into high-velocity production products.
 
 * 🚀 **Production-Grade Delivery:** Shipped **8+ commercial applications** across fintech, e-commerce, and AI SaaS verticals.
 * 🦀 **Systems & Desktop Competency:** Native, high-performance cross-platform software engineering using **Tauri 2.0 & Rust**.
 * 🤖 **AI Integration & Latency Tuning:** Designing production RAG pipelines, custom semantic search recommendations with **Vertex AI, Cohere, and Qdrant** at **sub-250ms latencies**.
+* ⛓️ **Web3 & Smart Contracts:** Developing EVM smart contracts (Solidity) with Chainlink VRF oracles, Hardhat testing suites, and Moralis SDK integrations.
 * 🛡️ **Secure Multitenancy:** Expert in isolating tenant workloads using advanced **PostgreSQL Row Level Security (RLS)**.
 
 ---
@@ -40,7 +41,8 @@ Instead of a scattered list of tools, my skill matrix is structured by engineeri
 | Engineering Domain | Primary Tech Stack | Architectural & Core Competencies |
 | :--- | :--- | :--- |
 | **Artificial Intelligence** | Vertex AI, Cohere Embeddings, OpenAI, Groq, Qdrant | RAG Pipelines, Vector Search Optimization, Semantic Indexing, Prompt Engineering |
-| **Backend & Microservices** | Node.js, Django, Supabase Edge, Firebase Functions | Secure Multitenancy, PostgreSQL RLS, Webhooks, Twilio Routing, Event-Driven Architectures |
+| **Web3 & Blockchain** | Solidity, ethers.js, Web3.js, Moralis SDK, Hardhat, Chainlink VRF | Smart Contracts, Decentralized Apps (dApps), Oracle Integration, Token Standards (ERC-20/721/1155) |
+| **Backend & Microservices** | Node.js, Express, Django, Supabase Edge, Firebase Functions | Secure Multitenancy, PostgreSQL RLS, Webhooks, Twilio Routing, Event-Driven Architectures |
 | **Client Engineering** | Tauri 2.0 (Rust), Android Studio (Java), React Native, React/Next.js | Desktop OS Integrations, Global Hotkeys, Native Mobile Performance, manifest V3 Extensions |
 | **Cloud, Devops & Scaling** | AWS, GCP, Vercel, Docker, GitHub Actions, n8n | CI/CD Pipelines, Multi-Environment Deployments, Task Automations, Performance Caching |
 
@@ -93,6 +95,37 @@ Below are the key commercial-grade products I have architected and deployed to p
         <li><strong>Architecture:</strong> Scaled state synchronization between native mobile clients and a high-performance web dashboard.</li>
       </ul>
       <p><a href="https://www.superg.in/"><strong>🔗 superg.in</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⛓️ Web3 & Decentralized Protocols
+
+Here are the key decentralized systems and Web3 applications I have developed:
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎲 Chainlink Betting Game</h4>
+      <p><em>Decentralized Betting Protocol with Provable Randomness</em></p>
+      <ul>
+        <li><strong>Tech Stack:</strong> Solidity, Hardhat, Chainlink VRF Oracles, ethers.js, React.js.</li>
+        <li><strong>Architecture:</strong> Wrote and deployed custom Solidity smart contracts (`BettingGame.sol`) verified on Sepolia Ethereum testnet.</li>
+        <li><strong>Security:</strong> Integrated Chainlink VRF (Verifiable Random Function) to guarantee mathematically provable, tamper-proof randomness for betting outcomes.</li>
+      </ul>
+      <p><a href="https://github.com/sleepybyte23/chainlink_betting_game"><strong>🔗 GitHub: chainlink_betting_game</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ 0xlink Boilerplate</h4>
+      <p><em>Premium EVM & Solana Full-Stack dApp Boilerplate</em></p>
+      <ul>
+        <li><strong>Tech Stack:</strong> Next.js, Moralis SDK, Truffle, Web3.js, ethers.js, Wagmi.</li>
+        <li><strong>Features:</strong> Built a multi-chain dApp starter kit providing out-of-the-box user wallet connection (Rainbow, MetaMask) and real-time EVM token balance / NFT metadata querying via Moralis.</li>
+        <li><strong>Flexibility:</strong> Optimized for high-velocity Web3 prototyping across Ethereum, Polygon, BSC, and Solana.</li>
+      </ul>
+      <p><a href="https://github.com/sleepybyte23/0xlink"><strong>🔗 GitHub: 0xlink</strong></a></p>
     </td>
   </tr>
 </table>
