@@ -115,7 +115,6 @@ Here are the key decentralized systems and Web3 applications I have developed:
         <li><strong>Architecture:</strong> Wrote and deployed custom Solidity smart contracts (`BettingGame.sol`) verified on Sepolia Ethereum testnet.</li>
         <li><strong>Security:</strong> Integrated Chainlink VRF (Verifiable Random Function) to guarantee mathematically provable, tamper-proof randomness for betting outcomes.</li>
       </ul>
-      <p><a href="https://github.com/sleepybyte23/chainlink_betting_game"><strong>🔗 GitHub: chainlink_betting_game</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>⚡ 0xlink Boilerplate</h4>
@@ -125,7 +124,6 @@ Here are the key decentralized systems and Web3 applications I have developed:
         <li><strong>Features:</strong> Built a multi-chain dApp starter kit providing out-of-the-box user wallet connection (Rainbow, MetaMask) and real-time EVM token balance / NFT metadata querying via Moralis.</li>
         <li><strong>Flexibility:</strong> Optimized for high-velocity Web3 prototyping across Ethereum, Polygon, BSC, and Solana.</li>
       </ul>
-      <p><a href="https://github.com/sleepybyte23/0xlink"><strong>🔗 GitHub: 0xlink</strong></a></p>
     </td>
   </tr>
 </table>
