@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://navneet-portfolio-blush.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-58a6ff?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/navneet0925">
     <img src="https://img.shields.io/badge/LinkedIn-navneet0925-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,6 +21,24 @@
   <a href="https://github.com/navneet-25">
     <img src="https://img.shields.io/badge/GitHub-navneet--25-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://navneet-portfolio-blush.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio%20%20%20%C2%B7%20%20Selected%20Work%20%C2%B7%20%20Stack%20%C2%B7%20%20Experience-161b22?style=for-the-badge" alt="Portfolio: Selected Work, Stack, Experience" />
+  </a>
+</p>
+
+### 💼 Portfolio
+
+<p align="center">
+  <a href="https://navneet-portfolio-blush.vercel.app/">
+    <strong>🚀 Visit my live portfolio → navneet-portfolio-blush.vercel.app</strong>
+  </a>
+</p>
+
+<p align="center">
+  A curated, case-study style walkthrough of <strong>26+ production applications</strong> — real-time trading SaaS, multi-tenant messaging architecture, AI/RAG pipelines, cross-platform desktop apps in Rust, and hyperlocal commerce. Includes deep dives on stack decisions, architecture, and measurable impact.
 </p>
 
 ---
@@ -167,6 +188,14 @@ Here are the key decentralized systems and Web3 applications I have developed:
 <p align="center">
   <a href="https://github.com/navneet-25">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneet-25&theme=react-dark&bg_color=0d1117&hide_border=true" width="98%" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://navneet-portfolio-blush.vercel.app/">
+    <strong>🚀 See the live portfolio → navneet-portfolio-blush.vercel.app</strong>
   </a>
 </p>
 
